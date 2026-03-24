@@ -54,8 +54,6 @@ Smart_Research_Assistant_RAG/
 
 ---
 
-## 📌 Resume Description
-Built a Smart Research Assistant using RAG with FAISS, LCEL, and Groq-hosted LLaMA 3.1 for citation-based document QA.
 
 ---
 
